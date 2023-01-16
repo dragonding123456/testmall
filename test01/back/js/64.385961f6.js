@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktest01"]=self["webpackChunktest01"]||[]).push([[64],{3064:function(t,n,u){u.r(n),u.d(n,{default:function(){return i}});var e=function(){var t=this;t._self._c;return t._m(0)},r=[function(){var t=this,n=t._self._c;return n("div",[n("h2",[t._v("我是关于")]),n("p",[t._v("我是关于内容哈哈哈")])])}],s={name:"About"},l=s,c=u(1001),f=(0,c.Z)(l,e,r,!1,null,null,null),i=f.exports}}]);
+//# sourceMappingURL=64.385961f6.js.map
